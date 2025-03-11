@@ -35,10 +35,10 @@ A modern, responsive Snake Game built using **React** and **TypeScript**, featur
 
 ## 📸 Screenshots
 ### Home Screen
-![Home Screen]<img src="01_snake.png" alt="Home Screen" width="500px"/>
+<img src="01_snake.png" alt="Home Screen" width="500px"/>
 
 ### Gameplay
-![Gameplay]<img src="02_snake.png" alt="GamePlay" width="500px"/>
+<img src="02_snake.png" alt="GamePlay" width="500px"/>
 
 ---
 
