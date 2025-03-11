@@ -5,7 +5,9 @@ A modern, responsive Snake Game built using **React** and **TypeScript**, featur
 ---
 
 ## 🎮 Live Demo
-🚀 [Play the Snake Game Now](#) *(Add your deployment link here!)*
+🚀 [Play the Snake Game Now](https://aniruddh-snake-game.netlify.app/)
+
+📂 [GitHub Repository](https://github.com/aniruddh-joshi/Project-Snake_Game)
 
 ---
 
@@ -43,8 +45,8 @@ A modern, responsive Snake Game built using **React** and **TypeScript**, featur
 ## 🚀 Installation & Running Locally
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/snake-game.git
-cd snake-game
+git clone https://github.com/aniruddh-joshi/Project-Snake_Game.git
+cd Project-Snake_Game
 
 # Install dependencies
 npm install
