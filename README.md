@@ -57,14 +57,6 @@ npm run dev
 
 ---
 
-## 📦 Build & Deploy
-```sh
-npm run build  # Creates an optimized production build
-```
-Deploy the `dist/` folder to **Netlify, Vercel, or GitHub Pages**.
-
----
-
 ## 🎮 Controls
 | Device  | Controls |
 |---------|----------|
